@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I love Git
+=======
+I am learning Git step by step
+>>>>>>> dev
